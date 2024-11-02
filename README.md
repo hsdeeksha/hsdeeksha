@@ -12,9 +12,6 @@ I'm currently pursuing CSE<br>I'm currently learning Web development <br>and UI/
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hsdeeksha&theme=city_lights&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hsdeeksha&theme=city_lights&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hsdeeksha&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-✍️ Random Dev Quote
+Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
